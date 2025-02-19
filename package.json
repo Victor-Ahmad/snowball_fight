@@ -1,0 +1,27 @@
+{
+  "name": "snowballfight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victor-Ahmad/snowball_fight.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Victor-Ahmad/snowball_fight/issues"
+  },
+  "homepage": "https://github.com/Victor-Ahmad/snowball_fight#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "socket.io": "^4.8.1",
+    "soket.io": "^0.0.1-security"
+  }
+}
